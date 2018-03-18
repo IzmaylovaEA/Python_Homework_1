@@ -23,3 +23,16 @@ Arguments:
 * -o (--output): the resulting filename, defalt name *'/home/izmaylova/Documents/Matrix.odt'*
 
 The resulting file contains the matrix with pairwise scores for all sequences from input FASTA file.
+## Usage example
+
+Generally, the usage looks like this:
+
+`$ python path/to/program/HW1_IzmaylovaEA.py -i path/to/input_file.fasta -t number_of_threads -o path/to/output_file`
+
+For example:
+
+`$ python Documents/HW1_IzmaylovaEA.py -i Downloads/ASXL1_2ex.fasta -t 2 -o Documents/Result`
+
+##References
+
+<https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm>
