@@ -33,6 +33,6 @@ For example:
 
 `$ python Documents/HW1_IzmaylovaEA.py -i Downloads/ASXL1_2ex.fasta -t 2 -o Documents/Result`
 
-##References
+## References
 
 <https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm>
